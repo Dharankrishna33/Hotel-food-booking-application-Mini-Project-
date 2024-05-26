@@ -1,5 +1,3 @@
-package food_app;
-
 import java.util.*;
 
 public class MYFood {
